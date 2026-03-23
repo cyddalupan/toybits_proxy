@@ -2,6 +2,8 @@
 
 Node.js proxy server that connects Angular applications to OpenClaw AI.
 
+**GitHub Repository**: https://github.com/cyddalupan/toybits_proxy
+
 ## 🎯 Purpose
 
 This server acts as a bridge between:
